@@ -1,0 +1,16 @@
+## ignore file extension
+*.out
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.recipe
+*.tlog
+*.exe
+*.obj
+*.ilk
+*.txt
+*.idb
+*.pdb
+*.log
+*.lastbuildstate
